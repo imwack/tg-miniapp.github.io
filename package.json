@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://github.com/imwack/tg-miniapp.github.io/reactjs-template",
+  "homepage": "https://github.com/imwack/tg-miniapp.github.io",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
